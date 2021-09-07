@@ -27,6 +27,11 @@
                                 </subviews>
                                 <color key="backgroundColor" red="0.51413199827843103" green="0.32554442685677948" blue="0.23787832041960669" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </view>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DLa-9g-uB5">
+                                <rect key="frame" x="184" y="769" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemGray5Color"/>
